@@ -1,5 +1,5 @@
 
-Note: **Make sure you setup of Visual studio 2022 not Visual Studio Code**
+Note: **Make sure you setup on Visual studio 2022 not Visual Studio Code**
 
 🧩 How to Install and Set Up SFML for This Project
 ✅ Prerequisites
