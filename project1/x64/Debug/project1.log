@@ -1,0 +1,143 @@
+﻿  project1.cpp
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(30,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(30,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(38,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(38,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(43,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(48,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(53,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(53,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(124,74): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(124,74): warning C4267:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(124,74): warning C4267:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(124,74): warning C4267:             _Ty=int
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(124,74): warning C4267:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(174,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(174,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(179,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(179,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(276,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(276,43): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(276,43): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(276,43): warning C4244:             T=unsigned int
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(276,43): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(277,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(277,43): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(277,43): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(277,43): warning C4244:             T=unsigned int
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(277,43): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(367,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(367,73): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(367,73): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(367,73): warning C4244:             T=float
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(367,73): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(367,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(367,54): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(367,54): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(367,54): warning C4244:             T=float
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(367,54): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(374,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(374,77): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(374,77): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(374,77): warning C4244:             T=float
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(374,77): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(374,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(374,56): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(374,56): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(374,56): warning C4244:             T=float
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(374,56): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(423,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(423,43): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(423,43): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(423,43): warning C4244:             T=unsigned int
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(423,43): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(424,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(424,43): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(424,43): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(424,43): warning C4244:             T=unsigned int
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(424,43): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(478,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(478,77): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(478,77): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(478,77): warning C4244:             T=float
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(478,77): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(478,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(478,58): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(478,58): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(478,58): warning C4244:             T=float
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(478,58): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(490,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(490,81): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(490,81): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(490,81): warning C4244:             T=float
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(490,81): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(490,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(490,60): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(490,60): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(490,60): warning C4244:             T=float
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(490,60): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(562,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(562,43): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(562,43): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(562,43): warning C4244:             T=unsigned int
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(562,43): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(563,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(563,43): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(563,43): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(563,43): warning C4244:             T=unsigned int
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(563,43): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(612,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(612,77): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(612,77): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(612,77): warning C4244:             T=float
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(612,77): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(612,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(612,58): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(612,58): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(612,58): warning C4244:             T=float
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(612,58): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(623,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(623,81): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(623,81): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(623,81): warning C4244:             T=float
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(623,81): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(623,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(623,60): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(623,60): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(623,60): warning C4244:             T=float
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(623,60): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(689,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(689,34): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(689,34): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(689,34): warning C4244:             T=unsigned int
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(689,34): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(690,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(690,34): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(690,34): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(690,34): warning C4244:             T=unsigned int
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(690,34): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(739,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(739,77): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(739,77): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(739,77): warning C4244:             T=float
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(739,77): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(739,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(739,58): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(739,58): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(739,58): warning C4244:             T=float
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(739,58): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(750,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(750,81): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(750,81): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(750,81): warning C4244:             T=float
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(750,81): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(750,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(750,60): warning C4244:         with
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(750,60): warning C4244:         [
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(750,60): warning C4244:             T=float
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(750,60): warning C4244:         ]
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(958,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(958,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(962,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nigga99\source\repos\project1\project1\project1.cpp(961,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  project1.vcxproj -> C:\Users\nigga99\source\repos\project1\x64\Debug\project1.exe
