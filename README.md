@@ -26,10 +26,14 @@ Welcome to the **Maze Solver Game**, a fun and challenging puzzle game built wit
 
 ## 📸 Screenshots
 
-> *(Add images here)*  
-> ![Lobby Screen](screenshots/lobby.png)  
-> ![Maze Gameplay](screenshots/maze.png)  
-> ![Game Over](screenshots/gameover.png)
+ 
+> ![Lobby Screen]<img width="986" height="720" alt="image" src="https://github.com/user-attachments/assets/bed84cb9-da1b-4c34-bab6-df19bc287a28" />
+> 
+ 
+> ![Maze Gameplay]<img width="568" height="539" alt="image" src="https://github.com/user-attachments/assets/8b334b3b-b87a-4c71-9767-faa3b888095f" />
+
+> ![Game Over]<img width="826" height="627" alt="image" src="https://github.com/user-attachments/assets/f61324df-f967-4f7b-be15-d562ededd64b" />
+
 
 ---
 
